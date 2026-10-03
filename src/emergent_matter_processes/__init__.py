@@ -18,7 +18,7 @@ source it uses.
 
 from __future__ import annotations
 
-__version__ = "0.0.0"
+__version__ = "1.0.0"
 
 # Data semver, bumps independently of package semver:
 #   MAJOR: schema break or preset removal (downstream pinning breaks)

@@ -1,6 +1,6 @@
 [project]
 name = "emergent-matter-sdm-processes"
-version = "0.0.0"
+version = "1.0.0"
 description = "Unified manufacturing-process / machine-capability substrate for the Software Defined Matter ecosystem: process families and machine-specific presets with per-property provenance"
 readme = "README.md"
 requires-python = ">=3.13"
