@@ -25,3 +25,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Local graphify tool artifacts (never part of the repo)
+.graphify/
+.graphifyy/
