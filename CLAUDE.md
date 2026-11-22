@@ -126,7 +126,7 @@ the catalog's scope.
 
 This package has no runtime dependencies and does not ship materials
 data. `Preset.s_default_material` is a **string identifier only**
-(e.g. `"nylon12_sls"`, `"pla_fdm"`); resolving it against a materials
+(e.g. `"nylon12_sls"`, `"pla_3dprint"`); resolving it against a materials
 catalog is the consumer's responsibility. Keeping the handoff to a
 plain string means this substrate can be released independently of
 whatever materials source a consumer pairs it with.
