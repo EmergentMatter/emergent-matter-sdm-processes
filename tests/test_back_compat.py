@@ -147,7 +147,7 @@ def test_legacy_dict_returns_verified_v011_values():
             "d_min_wall_mm": 0.8,  # v0.1.1
             "d_min_clearance_mm": 0.3,
             "d_min_feature_mm": 0.4,  # v0.1.1
-            "default_material": "petg_fdm",
+            "default_material": "petg_3dprint",
         },
     }
 
