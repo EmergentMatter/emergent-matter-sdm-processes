@@ -105,7 +105,7 @@ def test_legacy_dict_returns_verified_v011_values():
             "d_min_wall_mm": 0.9,
             "d_min_clearance_mm": 0.3,
             "d_min_feature_mm": 0.4,
-            "default_material": "pla_fdm",
+            "default_material": "pla_3dprint",
         },
         "sls_pa12": {
             "d_voxel_size": 0.2,
@@ -133,7 +133,7 @@ def test_legacy_dict_returns_verified_v011_values():
             "d_min_wall_mm": 0.8,  # v0.1.1
             "d_min_clearance_mm": 0.3,
             "d_min_feature_mm": 0.4,  # v0.1.1
-            "default_material": "pla_fdm",
+            "default_material": "pla_3dprint",
         },
         "fdm_abs": {
             "d_voxel_size": 0.25,
@@ -147,7 +147,7 @@ def test_legacy_dict_returns_verified_v011_values():
             "d_min_wall_mm": 0.8,  # v0.1.1
             "d_min_clearance_mm": 0.3,
             "d_min_feature_mm": 0.4,  # v0.1.1
-            "default_material": "petg_fdm",
+            "default_material": "petg_3dprint",
         },
     }
 
